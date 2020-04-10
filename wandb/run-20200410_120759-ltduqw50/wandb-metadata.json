@@ -1,0 +1,29 @@
+{
+    "root": "/home/jupyter/Rerproducibility-in-tf.keras-with-wandb",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/sayakpaul/Rerproducibility-in-tf.keras-with-wandb",
+        "commit": null
+    },
+    "email": "spsayakpaul@gmail.com",
+    "startedAt": "2020-04-10T11:45:58.761345",
+    "host": "reproducibility-vm",
+    "username": "jupyter",
+    "executable": "/opt/conda/bin/python",
+    "os": "Linux-4.9.0-12-amd64-x86_64-with-debian-9.12",
+    "python": "3.7.6",
+    "gpu": "Tesla V100-SXM2-16GB",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": "10.1.243",
+    "args": [
+        "-f",
+        "/home/jupyter/.local/share/jupyter/runtime/kernel-dd231b63-0273-4259-a3e3-5682dd20de86.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "golden-sweep-17",
+    "project": "reproducible-ml",
+    "heartbeatAt": "2020-04-10T12:08:23.646543"
+}
