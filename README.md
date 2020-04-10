@@ -18,7 +18,11 @@ The repository includes some code as showcased in the above-mentioned report.
 - TensorFlow 2.1
 - Weights and Biases 
 
-## Machine used:
+## Machine used
 - `n1-standard-4vCPUs-15GB`
 - Tesla V100
 - Preconfigured Image: TensorFlow 2.1 (with Intel MKL-DNN/MKL and CUDA 10.1)
+
+## Acknowledgements
+- ML-GDE program for providing the GCP Credits. 
+- Joel Grus and his [amazing talk on reproducibility](https://docs.google.com/presentation/d/1yHLPvPhUs2KGI5ZWo0sU-PKU3GimAk3iTsI38Z-B5Gw/edit#slide=id.g5921051688_0_160).
