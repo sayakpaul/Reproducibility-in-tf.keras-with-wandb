@@ -16,7 +16,7 @@ The repository includes some code as showcased in the above-mentioned report.
 
 ## Coded in
 - TensorFlow 2.1
-- Weights and Biases 
+- Weights and Biases 0.8.31
 
 ## Machine used
 - `n1-standard-4vCPUs-15GB`
