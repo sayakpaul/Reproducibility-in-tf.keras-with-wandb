@@ -1,4 +1,4 @@
-Accompanies with [this report](https://app.wandb.ai/sayakpaul/reproducible-ml/reports/Reproducible-Models-with-W%26B--Vmlldzo3ODMxNQ?utm_source=social_slack&utm_medium=report&utm_campaign=report_author).
+Accompanies with [this report](https://bit.ly/2xEJIYr).
 
 There are different levels of stochasticity in machine learning (ML). Sometimes it's there in the sampling process of the dataset, sometimes in the machine learning models (specifically neural networks) themselves. While stochasticity brings a number of advantages in a machine learning model, it causes some genuine problems with regards to reproducibility. 
 
