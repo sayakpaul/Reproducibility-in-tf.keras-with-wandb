@@ -107,7 +107,7 @@ h5py==2.10.0
 heapdict==1.0.1
 html5lib==1.0.1
 htmlmin==0.1.12
-httplib2==0.17.0
+httplib2==0.19.0
 hypothesis==5.8.0
 idna==2.9
 imageio==2.8.0
