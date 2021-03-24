@@ -266,7 +266,7 @@ requests-oauthlib==1.3.0
 requests==2.23.0
 retrying==1.3.3
 rope==0.16.0
-rsa==4.0
+rsa==4.1
 rtree==0.9.4
 ruamel-yaml==0.15.80
 scikit-image==0.16.2
