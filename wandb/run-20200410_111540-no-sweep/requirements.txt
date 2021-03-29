@@ -229,7 +229,7 @@ pycurl==7.43.0.5
 pydocstyle==5.0.2
 pydot==1.4.1
 pyflakes==2.1.1
-pygments==2.6.1
+pygments==2.7.4
 pyjwt==1.7.1
 pylint==2.4.4
 pyodbc==4.0.30
