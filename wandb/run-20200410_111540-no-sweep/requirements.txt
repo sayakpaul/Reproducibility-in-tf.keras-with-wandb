@@ -137,7 +137,7 @@ jupyter-http-over-ws==0.0.8
 jupyter==1.0.0
 jupyterlab-git==0.9.1
 jupyterlab-server==1.0.7
-jupyterlab==1.2.7
+jupyterlab==1.2.21
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
 keras==2.3.1
